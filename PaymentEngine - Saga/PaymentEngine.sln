@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAA04A33-E9C2-46CE-A28E-E7A035CD99B5}"
+	ProjectSection(SolutionItems) = preProject
+		PaymentEngine.guidancestate = PaymentEngine.guidancestate
+		PaymentEngine.slnbldr = PaymentEngine.slnbldr
+		ServiceMatrixVersion.txt = ServiceMatrixVersion.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentEngine.Contracts", "PaymentEngine.Contracts\PaymentEngine.Contracts.csproj", "{71CB8894-FBBA-40A3-8FE7-EE0E5962A199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentEngine.Internal", "PaymentEngine.Internal\PaymentEngine.Internal.csproj", "{769F8ED2-76DE-4790-A566-54E57835ED80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentEngine.ECommerce", "PaymentEngine.ECommerce\PaymentEngine.ECommerce.csproj", "{621D142C-3F61-4505-B11C-61E12FAE848A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentEngine.PaymentProcessing", "PaymentEngine.PaymentProcessing\PaymentEngine.PaymentProcessing.csproj", "{88468710-879A-40AC-A06A-D8F6DF21DE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentEngine.Paying", "PaymentEngine.Paying\PaymentEngine.Paying.csproj", "{73B85792-8A43-40F9-A47F-5E8DDF67BFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentEngine.NotifyProcessing", "PaymentEngine.NotifyProcessing\PaymentEngine.NotifyProcessing.csproj", "{2137E52F-3081-489F-80F9-6A5B56F58CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71CB8894-FBBA-40A3-8FE7-EE0E5962A199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CB8894-FBBA-40A3-8FE7-EE0E5962A199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CB8894-FBBA-40A3-8FE7-EE0E5962A199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CB8894-FBBA-40A3-8FE7-EE0E5962A199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769F8ED2-76DE-4790-A566-54E57835ED80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769F8ED2-76DE-4790-A566-54E57835ED80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769F8ED2-76DE-4790-A566-54E57835ED80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769F8ED2-76DE-4790-A566-54E57835ED80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621D142C-3F61-4505-B11C-61E12FAE848A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621D142C-3F61-4505-B11C-61E12FAE848A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621D142C-3F61-4505-B11C-61E12FAE848A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621D142C-3F61-4505-B11C-61E12FAE848A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88468710-879A-40AC-A06A-D8F6DF21DE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88468710-879A-40AC-A06A-D8F6DF21DE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88468710-879A-40AC-A06A-D8F6DF21DE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88468710-879A-40AC-A06A-D8F6DF21DE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B85792-8A43-40F9-A47F-5E8DDF67BFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B85792-8A43-40F9-A47F-5E8DDF67BFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B85792-8A43-40F9-A47F-5E8DDF67BFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B85792-8A43-40F9-A47F-5E8DDF67BFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2137E52F-3081-489F-80F9-6A5B56F58CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2137E52F-3081-489F-80F9-6A5B56F58CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2137E52F-3081-489F-80F9-6A5B56F58CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2137E52F-3081-489F-80F9-6A5B56F58CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		GuidanceWorkflows = 23795EC3-3DEA-4F04-9044-4056CF91A2ED:ServiceMatrix Guidance:2.1.2
+	EndGlobalSection
+EndGlobal

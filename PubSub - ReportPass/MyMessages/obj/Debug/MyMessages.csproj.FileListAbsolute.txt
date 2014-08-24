@@ -1,0 +1,19 @@
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyMessages\bin\Debug\MyMessages.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyMessages\bin\Debug\MyMessages.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyMessages\obj\Debug\MyMessages.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyMessages\obj\Debug\MyMessages.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyMessages\obj\Debug\MyMessages.csprojResolveAssemblyReference.cache
+F:\3496EN_Chap06\PubSub\MyMessages\bin\Debug\MyMessages.dll
+F:\3496EN_Chap06\PubSub\MyMessages\bin\Debug\MyMessages.pdb
+F:\3496EN_Chap06\PubSub\MyMessages\obj\Debug\MyMessages.dll
+F:\3496EN_Chap06\PubSub\MyMessages\obj\Debug\MyMessages.pdb
+F:\Rewrites3_June27_2014\3816_Chap02\PubSub - ReportPass\MyMessages\bin\Debug\MyMessages.dll
+F:\Rewrites3_June27_2014\3816_Chap02\PubSub - ReportPass\MyMessages\bin\Debug\MyMessages.pdb
+F:\Rewrites3_June27_2014\3816_Chap02\PubSub - ReportPass\MyMessages\obj\Debug\MyMessages.csprojResolveAssemblyReference.cache
+F:\Rewrites3_June27_2014\3816_Chap02\PubSub - ReportPass\MyMessages\obj\Debug\MyMessages.dll
+F:\Rewrites3_June27_2014\3816_Chap02\PubSub - ReportPass\MyMessages\obj\Debug\MyMessages.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportPass\MyMessages\bin\Debug\MyMessages.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportPass\MyMessages\bin\Debug\MyMessages.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportPass\MyMessages\obj\Debug\MyMessages.csprojResolveAssemblyReference.cache
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportPass\MyMessages\obj\Debug\MyMessages.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportPass\MyMessages\obj\Debug\MyMessages.pdb

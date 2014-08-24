@@ -1,0 +1,120 @@
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Infrastructure\Logging.config
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\MessageForwardingInCaseOfFaultConfig.config
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\TransportConfig.config
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\UnicastBusConfig.config
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\TransportConnectionString.config
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\AuditConfig.config
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\PaymentEngine.ECommerce.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\PaymentEngine.ECommerce.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Autofac.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Autofac.Integration.Mvc.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Microsoft.Web.Infrastructure.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Newtonsoft.Json.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.Core.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.ObjectBuilder.Autofac.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\PaymentEngine.Internal.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.CustomChecks.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.DebugSession.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.Heartbeat.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.SagaAudit.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Net.Http.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Net.Http.Formatting.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Net.Http.WebRequest.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Helpers.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Http.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Http.WebHost.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Mvc.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Razor.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.WebPages.Deployment.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.WebPages.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.WebPages.Razor.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\PaymentEngine.Internal.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Autofac.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.Core.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.Core.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\NServiceBus.ObjectBuilder.Autofac.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.CustomChecks.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.DebugSession.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.Heartbeat.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.SagaAudit.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Newtonsoft.Json.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Net.Http.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Net.Http.Formatting.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Net.Http.WebRequest.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Helpers.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Http.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Http.WebHost.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Mvc.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.Razor.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.WebPages.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.WebPages.Deployment.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\System.Web.WebPages.Razor.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\bin\Autofac.Integration.Mvc.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\obj\Debug\PaymentEngine.ECommerce.csprojResolveAssemblyReference.cache
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\obj\Debug\PaymentEngine.ECommerce.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.ECommerce\obj\Debug\PaymentEngine.ECommerce.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Infrastructure\Logging.config
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\MessageForwardingInCaseOfFaultConfig.config
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\TransportConfig.config
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\UnicastBusConfig.config
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\TransportConnectionString.config
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Infrastructure\GeneratedCode\Config\AuditConfig.config
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\PaymentEngine.ECommerce.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\PaymentEngine.ECommerce.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Autofac.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Autofac.Integration.Mvc.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Newtonsoft.Json.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.Core.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\PaymentEngine.Internal.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.CustomChecks.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.DebugSession.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.Heartbeat.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.SagaAudit.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Net.Http.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Net.Http.Formatting.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Net.Http.WebRequest.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Helpers.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Http.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Http.WebHost.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Mvc.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Razor.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.WebPages.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.WebPages.Razor.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\PaymentEngine.Internal.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Autofac.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.Core.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.Core.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.CustomChecks.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.DebugSession.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.Heartbeat.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\ServiceControl.Plugin.SagaAudit.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Newtonsoft.Json.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Net.Http.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Net.Http.Formatting.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Net.Http.WebRequest.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Helpers.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Http.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Http.WebHost.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Mvc.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.Razor.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.WebPages.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\System.Web.WebPages.Razor.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\bin\Autofac.Integration.Mvc.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\obj\Debug\PaymentEngine.ECommerce.csprojResolveAssemblyReference.cache
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\obj\Debug\PaymentEngine.ECommerce.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.ECommerce\obj\Debug\PaymentEngine.ECommerce.pdb

@@ -1,0 +1,11 @@
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\bin\Debug\PaymentEngine.Internal.dll
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\bin\Debug\PaymentEngine.Internal.pdb
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.dll
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.dll
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.pdb
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.xml
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.pdb
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.xml
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.csprojResolveAssemblyReference.cache
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.dll
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.pdb

@@ -1,0 +1,20 @@
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\PaymentEngine.Internal.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\PaymentEngine.Internal.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.pdb
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.xml
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.dll
+F:\ServiceMatrix\PaymentEngine\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\bin\Debug\PaymentEngine.Internal.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\bin\Debug\PaymentEngine.Internal.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\bin\Debug\NServiceBus.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\bin\Debug\NServiceBus.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\bin\Debug\NServiceBus.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\bin\Debug\NServiceBus.Core.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PaymentEngine - Saga\PaymentEngine.Internal\obj\Debug\PaymentEngine.Internal.pdb

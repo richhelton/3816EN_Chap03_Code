@@ -1,0 +1,24 @@
+F:\Rewrites3_June27_2014\3816_Chap02_NSB_Arch\ScaleOut\Orders.Messages\bin\Debug\Orders.Messages.dll
+F:\Rewrites3_June27_2014\3816_Chap02_NSB_Arch\ScaleOut\Orders.Messages\bin\Debug\Orders.Messages.pdb
+F:\Rewrites3_June27_2014\3816_Chap02_NSB_Arch\ScaleOut\Orders.Messages\bin\Debug\NServiceBus.dll
+F:\Rewrites3_June27_2014\3816_Chap02_NSB_Arch\ScaleOut\Orders.Messages\bin\Debug\NServiceBus.pdb
+F:\Rewrites3_June27_2014\3816_Chap02_NSB_Arch\ScaleOut\Orders.Messages\bin\Debug\NServiceBus.xml
+F:\Rewrites3_June27_2014\3816_Chap02_NSB_Arch\ScaleOut\Orders.Messages\obj\Debug\Orders.Messages.csprojResolveAssemblyReference.cache
+F:\Rewrites3_June27_2014\3816_Chap02_NSB_Arch\ScaleOut\Orders.Messages\obj\Debug\Orders.Messages.dll
+F:\Rewrites3_June27_2014\3816_Chap02_NSB_Arch\ScaleOut\Orders.Messages\obj\Debug\Orders.Messages.pdb
+F:\Rewrites3_June27_2014\3816_Chap02_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\Orders.Messages.dll
+F:\Rewrites3_June27_2014\3816_Chap02_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\Orders.Messages.pdb
+F:\Rewrites3_June27_2014\3816_Chap02_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\NServiceBus.dll
+F:\Rewrites3_June27_2014\3816_Chap02_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\NServiceBus.pdb
+F:\Rewrites3_June27_2014\3816_Chap02_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\NServiceBus.xml
+F:\Rewrites3_June27_2014\3816_Chap02_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\obj\Debug\Orders.Messages.csprojResolveAssemblyReference.cache
+F:\Rewrites3_June27_2014\3816_Chap02_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\obj\Debug\Orders.Messages.dll
+F:\Rewrites3_June27_2014\3816_Chap02_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\obj\Debug\Orders.Messages.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\Orders.Messages.dll
+C:\Code_August\3816_Chap03_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\Orders.Messages.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\NServiceBus.dll
+C:\Code_August\3816_Chap03_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\NServiceBus.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\bin\Debug\NServiceBus.xml
+C:\Code_August\3816_Chap03_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\obj\Debug\Orders.Messages.csprojResolveAssemblyReference.cache
+C:\Code_August\3816_Chap03_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\obj\Debug\Orders.Messages.dll
+C:\Code_August\3816_Chap03_PlatformNSB\ScaleOut --ServiceControl\Orders.Messages\obj\Debug\Orders.Messages.pdb

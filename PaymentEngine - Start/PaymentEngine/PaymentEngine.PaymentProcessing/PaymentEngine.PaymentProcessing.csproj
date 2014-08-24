@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{400F8BB5-CB2C-4DA8-A001-212EEAE5071A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PaymentEngine.PaymentProcessing</RootNamespace>
+    <AssemblyName>PaymentEngine.PaymentProcessing</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NServiceBus">
+      <HintPath>..\packages\NServiceBus.Interfaces.4.6.3\lib\net40\NServiceBus.dll</HintPath>
+    </Reference>
+    <Reference Include="NServiceBus.Core">
+      <HintPath>..\packages\NServiceBus.4.6.3\lib\net40\NServiceBus.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="NServiceBus.Host">
+      <HintPath>..\packages\NServiceBus.Host.4.6.3\lib\net40\NServiceBus.Host.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EndpointConfig.cs">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <ItemGuid>cf6dc3a3-d84d-494f-9da0-a4390d6d0ab9</ItemGuid>
+    </Compile>
+    <Compile Include="EndpointConfig.generated.cs">
+      <DependentUpon>EndpointConfig.cs</DependentUpon>
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <ItemGuid>f8b8b20c-9cde-4ec8-80e3-ee00e9f869f6</ItemGuid>
+    </Compile>
+    <Compile Include="Infrastructure\MessageConventions.cs">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <ItemGuid>1db6b2dd-4644-4d7b-86e2-fce2f5d95c17</ItemGuid>
+    </Compile>
+    <Compile Include="Infrastructure\Payments\SubmitPaymentHandler.cs">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252f3e55c05a-fba3-441f-af6a-72aa39b086eb</SourceModelReference>
+      <ItemGuid>13ebbb67-d156-4b2a-9fbb-485e5d1c8d9a</ItemGuid>
+    </Compile>
+    <Compile Include="Payments\SubmitPaymentHandler.cs">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252f3e55c05a-fba3-441f-af6a-72aa39b086eb</SourceModelReference>
+      <ItemGuid>3f218395-284a-4577-a95c-fcc4d4885a4b</ItemGuid>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Infrastructure\INServiceBusComponent.cs" />
+    <Compile Include="TransportConfig.cs">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <ItemGuid>7f02a002-0215-4e13-affd-89d16accac1c</ItemGuid>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <ItemGuid>4c01e069-41fd-494d-9c32-f17d094ef307</ItemGuid>
+    </None>
+    <Content Include="Infrastructure\Logging.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ItemGuid>1572096e-9980-48c3-8961-63ab0abd2451</ItemGuid>
+    </Content>
+    <Content Include="Infrastructure\GeneratedCode\Config\MasterNodeConfig.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ItemGuid>dd28cd19-e38e-4779-a30e-bd4e1eaa638c</ItemGuid>
+    </Content>
+    <Content Include="Infrastructure\GeneratedCode\Config\MessageForwardingInCaseOfFaultConfig.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ItemGuid>b4e95d33-ec32-4fb9-8d36-0cc965781a97</ItemGuid>
+    </Content>
+    <Content Include="Infrastructure\GeneratedCode\Config\TransportConfig.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ItemGuid>1157a3b3-eef5-46f2-8cb4-9738ca5c4b73</ItemGuid>
+    </Content>
+    <Content Include="Infrastructure\GeneratedCode\Config\UnicastBusConfig.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ItemGuid>fe56fb63-c09d-4b53-b400-f85b4cd82f0d</ItemGuid>
+    </Content>
+    <Content Include="Infrastructure\GeneratedCode\Config\TransportConnectionString.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ItemGuid>3aae3d6f-9bcd-4c42-8950-1a2e5292079c</ItemGuid>
+    </Content>
+    <Content Include="Infrastructure\GeneratedCode\Config\SecondLevelRetriesConfig.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ItemGuid>99497ecb-2cc6-4be4-a65d-876307431a2e</ItemGuid>
+    </Content>
+    <Content Include="Infrastructure\GeneratedCode\Config\AuditConfig.config">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.slnbldr%252fabe77de7-9080-426f-be6c-eb06ee8abf74</SourceModelReference>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ItemGuid>7a0754e0-0543-4084-b2bc-e5a7ad9ac23c</ItemGuid>
+    </Content>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentEngine.Internal\PaymentEngine.Internal.csproj">
+      <Project>{3B73715A-9128-4E10-9ABF-21B6E7EC4FBC}</Project>
+      <Name>PaymentEngine.Internal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>$(ProjectDir)$(OutputPath)NServiceBus.Host.exe</StartProgram>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

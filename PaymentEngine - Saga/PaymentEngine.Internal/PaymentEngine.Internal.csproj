@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{769F8ED2-76DE-4790-A566-54E57835ED80}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PaymentEngine.Internal</RootNamespace>
+    <AssemblyName>PaymentEngine.Internal</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NServiceBus">
+      <HintPath>..\packages\NServiceBus.Interfaces.4.6.1\lib\net40\NServiceBus.dll</HintPath>
+    </Reference>
+    <Reference Include="NServiceBus.Core">
+      <HintPath>..\packages\NServiceBus.4.6.1\lib\net40\NServiceBus.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Paying\PaymentNotification.cs">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\ServiceMatrix\PaymentEngine\PaymentEngine.slnbldr%252f2ef99b7b-29c1-4d2f-8c35-7a88fdefa7c3</SourceModelReference>
+      <ItemGuid>2d0118be-ec2c-4ced-86d4-60528f8466fe</ItemGuid>
+    </Compile>
+    <Compile Include="Paying\PaymentNotificationResponse.cs">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\ServiceMatrix\PaymentEngine\PaymentEngine.slnbldr%252f7504149f-ceeb-4d28-8cb2-197dd7131636</SourceModelReference>
+      <ItemGuid>81231884-bcb4-416b-b479-d0d2dd46cd51</ItemGuid>
+    </Compile>
+    <Compile Include="Payments\SubmitPayment.cs">
+      <SourceModelReference>modelbus://NuPattern.Runtime.Store/PaymentEngine/Element/F:\ServiceMatrix\PaymentEngine\PaymentEngine.slnbldr%252f5cb072e7-de31-4141-8b79-587d74203e88</SourceModelReference>
+      <ItemGuid>bbd7711f-16da-4849-a259-ed7d5a9b9081</ItemGuid>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

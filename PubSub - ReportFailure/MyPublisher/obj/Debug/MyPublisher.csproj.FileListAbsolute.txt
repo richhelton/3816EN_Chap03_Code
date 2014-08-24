@@ -1,0 +1,88 @@
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.Host.exe.config
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\MyPublisher.dll.config
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\MyPublisher.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\MyPublisher.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\MyMessages.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.Host.exe
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\ServiceControl.Plugin.CustomChecks.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\ServiceControl.Plugin.Heartbeat.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\MyMessages.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.xml
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.xml
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.Host.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\NServiceBus.Host.xml
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\ServiceControl.Plugin.CustomChecks.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\bin\Debug\ServiceControl.Plugin.Heartbeat.pdb
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\obj\Debug\MyPublisher.csprojResolveAssemblyReference.cache
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\obj\Debug\MyPublisher.dll
+F:\ServicePulse-Examples\NServiceBus.Msmq.Samples-master\PubSub\MyPublisher\obj\Debug\MyPublisher.pdb
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.Host.exe.config
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\MyPublisher.dll.config
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\MyPublisher.dll
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\MyPublisher.pdb
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\MyMessages.dll
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.dll
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.dll
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.Host.exe
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\ServiceControl.Plugin.CustomChecks.dll
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\ServiceControl.Plugin.Heartbeat.dll
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\MyMessages.pdb
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.pdb
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.xml
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.pdb
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.Core.xml
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.Host.pdb
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\NServiceBus.Host.xml
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\ServiceControl.Plugin.CustomChecks.pdb
+F:\3496EN_Chap06\PubSub\MyPublisher\bin\Debug\ServiceControl.Plugin.Heartbeat.pdb
+F:\3496EN_Chap06\PubSub\MyPublisher\obj\Debug\MyPublisher.csprojResolveAssemblyReference.cache
+F:\3496EN_Chap06\PubSub\MyPublisher\obj\Debug\MyPublisher.dll
+F:\3496EN_Chap06\PubSub\MyPublisher\obj\Debug\MyPublisher.pdb
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Host.exe.config
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\MyPublisher.dll.config
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\MyPublisher.dll
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\MyPublisher.pdb
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\MyMessages.dll
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Core.dll
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.dll
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Host.exe
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\ServiceControl.Plugin.CustomChecks.dll
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\ServiceControl.Plugin.Heartbeat.dll
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\MyMessages.pdb
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.pdb
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.xml
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Core.pdb
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Core.xml
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Host.pdb
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Host.xml
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\ServiceControl.Plugin.CustomChecks.pdb
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\bin\Debug\ServiceControl.Plugin.Heartbeat.pdb
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\obj\Debug\MyPublisher.csprojResolveAssemblyReference.cache
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\obj\Debug\MyPublisher.dll
+F:\3496EN_Chap06\PubSub - ReportFailure\MyPublisher\obj\Debug\MyPublisher.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Host.exe.config
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\MyPublisher.dll.config
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\MyPublisher.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\MyPublisher.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\MyMessages.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Core.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Host.exe
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\ServiceControl.Plugin.CustomChecks.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\ServiceControl.Plugin.Heartbeat.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\MyMessages.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Core.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Core.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Host.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\NServiceBus.Host.xml
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\ServiceControl.Plugin.CustomChecks.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\bin\Debug\ServiceControl.Plugin.Heartbeat.pdb
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\obj\Debug\MyPublisher.csprojResolveAssemblyReference.cache
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\obj\Debug\MyPublisher.dll
+C:\Code_August\3816_Chap03_PlatformNSB\PubSub - ReportFailure\MyPublisher\obj\Debug\MyPublisher.pdb

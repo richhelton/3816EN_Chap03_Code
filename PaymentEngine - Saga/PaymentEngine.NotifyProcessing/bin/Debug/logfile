@@ -1,0 +1,58 @@
+2014-08-14 18:10:21,373 [1] INFO  NServiceBus.Configure [(null)] <(null)> - Invocation of NServiceBus.IWantToRunBeforeConfiguration completed in 0.43 s
+2014-08-14 18:10:21,654 [1] INFO  NServiceBus.Configure [(null)] <(null)> - Invocation of NServiceBus.Config.INeedInitialization completed in 0.00 s
+2014-08-14 18:10:21,717 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Trial for Particular Service Platform is still active, trial expires on 8/25/2014. Configuring NServiceBus to run in trial mode.
+2014-08-14 18:10:21,826 [1] INFO  NServiceBus.Configure [(null)] <(null)> - Invocation of NServiceBus.INeedInitialization completed in 0.12 s
+2014-08-14 18:10:22,311 [1] INFO  NServiceBus.Configure [(null)] <(null)> - Invocation of NServiceBus.IWantToRunBeforeConfigurationIsFinalized completed in 0.49 s
+2014-08-14 18:10:22,498 [1] INFO  NServiceBus.Features.Sagas [(null)] <(null)> - The saga feature was enabled but no saga implementations could be found. No need to enable the configured saga persister
+2014-08-14 18:10:22,576 [1] INFO  NServiceBus.Features.FeatureInitializer [(null)] <(null)> - Features: 
+Audit [4.6.1] - Enabled
+AutoSubscribe [4.6.1] - Enabled
+BinarySerialization [4.6.1] - Controlled by category Serializers
+BsonSerialization [4.6.1] - Controlled by category Serializers
+JsonSerialization [4.6.1] - Controlled by category Serializers
+XmlSerialization [4.6.1] - Controlled by category Serializers
+MsmqTransport [4.6.1] - Enabled
+Gateway [4.6.1] - Disabled
+TimeoutManager [4.6.1] - Enabled
+Sagas [4.6.1] - Enabled
+SecondLevelRetries [4.6.1] - Enabled
+StorageDrivenPublisher [4.6.1] - Disabled
+MessageDrivenSubscriptions [4.6.1] - Enabled
+CustomChecks [1.0.0] - Enabled
+DebugSession [1.0.0] - Enabled
+Heartbeats [1.0.0] - Enabled
+SagaAudit [1.0.0] - Enabled
+
+2014-08-14 18:10:22,592 [1] INFO  NServiceBus.Features.FeatureInitializer [(null)] <(null)> - Feature categories: 
+   - Serializers
+       * BinarySerialization - Disabled
+       * BsonSerialization - Disabled
+       * JsonSerialization - Disabled
+       * XmlSerialization - Enabled
+
+2014-08-14 18:10:22,608 [1] INFO  NServiceBus.Unicast.Config.FinalizeUnicastBusConfiguration [(null)] <(null)> - Number of messages found: 4
+2014-08-14 18:10:22,623 [1] INFO  NServiceBus.Config.InfrastructureServices [(null)] <(null)> - Infrastructure service NServiceBus.AutomaticSubscriptions.IAutoSubscriptionStrategy was found in the container and will be used instead of the default
+2014-08-14 18:10:22,639 [1] INFO  NServiceBus.Configure [(null)] <(null)> - Invocation of NServiceBus.Config.IFinalizeConfiguration completed in 0.29 s
+2014-08-14 18:10:37,686 [1] INFO  NServiceBus.ConfigureRavenPersistence [(null)] <(null)> - Connection to RavenDB at http://localhost:8080 verified. Detected version: Product version: 2.0.3 / 5a4b7ea, Build version: 2375
+2014-08-14 18:10:39,108 [1] ERROR NServiceBus.Transports.Msmq.MsmqQueueCreator [(null)] <(null)> - Could not create queue audit@NSB_RICHH_8_1 or check its existence. Processing will still continue.
+System.Messaging.MessageQueueException (0x80004005): Access to Message Queuing system is denied.
+   at System.Messaging.MessageQueue.SetPermissions(AccessControlList dacl)
+   at System.Messaging.MessageQueue.SetPermissions(String user, MessageQueueAccessRights rights, AccessControlEntryType entryType)
+   at NServiceBus.Transports.Msmq.MsmqQueueCreator.SetPermissionsForQueue(String queue, String account) in y:\BuildAgent\work\31f8c64a6e8a2d7c\src\NServiceBus.Core\Transports\Msmq\MsmqQueueCreator.cs:line 93
+   at NServiceBus.Transports.Msmq.MsmqQueueCreator.CreateQueueIfNecessary(Address address, String account) in y:\BuildAgent\work\31f8c64a6e8a2d7c\src\NServiceBus.Core\Transports\Msmq\MsmqQueueCreator.cs:line 50
+2014-08-14 18:10:39,203 [1] WARN  NServiceBus.Transports.Msmq.MsmqQueueCreator [(null)] <(null)> - Queue NSB_RICHH_8_1\private$\PaymentEngine.NotifyProcessing does not exist.
+2014-08-14 18:10:40,030 [1] ERROR NServiceBus.Transports.Msmq.MsmqQueueCreator [(null)] <(null)> - Could not create queue error@NSB_RICHH_8_1 or check its existence. Processing will still continue.
+System.Messaging.MessageQueueException (0x80004005): Access to Message Queuing system is denied.
+   at System.Messaging.MessageQueue.SetPermissions(AccessControlList dacl)
+   at System.Messaging.MessageQueue.SetPermissions(String user, MessageQueueAccessRights rights, AccessControlEntryType entryType)
+   at NServiceBus.Transports.Msmq.MsmqQueueCreator.SetPermissionsForQueue(String queue, String account) in y:\BuildAgent\work\31f8c64a6e8a2d7c\src\NServiceBus.Core\Transports\Msmq\MsmqQueueCreator.cs:line 93
+   at NServiceBus.Transports.Msmq.MsmqQueueCreator.CreateQueueIfNecessary(Address address, String account) in y:\BuildAgent\work\31f8c64a6e8a2d7c\src\NServiceBus.Core\Transports\Msmq\MsmqQueueCreator.cs:line 50
+2014-08-14 18:10:40,171 [1] WARN  NServiceBus.Transports.Msmq.MsmqQueueCreator [(null)] <(null)> - Queue NSB_RICHH_8_1\private$\PaymentEngine.NotifyProcessing.Timeouts does not exist.
+2014-08-14 18:10:40,436 [1] WARN  NServiceBus.Transports.Msmq.MsmqQueueCreator [(null)] <(null)> - Queue NSB_RICHH_8_1\private$\PaymentEngine.NotifyProcessing.TimeoutsDispatcher does not exist.
+2014-08-14 18:10:40,967 [1] WARN  NServiceBus.Transports.Msmq.MsmqQueueCreator [(null)] <(null)> - Queue NSB_RICHH_8_1\private$\PaymentEngine.NotifyProcessing.Retries does not exist.
+2014-08-14 18:10:41,546 [1] INFO  NServiceBus.Installation.PerformanceMonitorUsersInstaller [(null)] <(null)> - Did not attempt to add user 'NSB_RICHH_8_1\Rich' to group 'Performance Monitor Users' since process is not running with elevate privileges. Processing will continue. To manually perform this action run the following command from an admin console:
+net localgroup "Performance Monitor Users" "NSB_RICHH_8_1\Rich" /add
+2014-08-14 18:10:41,546 [1] INFO  NServiceBus.Persistence.Raven.RavenUserInstaller [(null)] <(null)> - Adding user 'NSB_RICHH_8_1\Rich' to raven. Instance:'http://localhost:8080', Database:'PaymentEngine.NotifyProcessing'.
+2014-08-14 18:10:43,483 [1] INFO  NServiceBus.Satellites.SatelliteLauncher [(null)] <(null)> - Started 1/3 NServiceBus.Timeout.Hosting.Windows.TimeoutMessageProcessor, NServiceBus.Core, Version=4.6.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c satellite
+2014-08-14 18:10:43,561 [8] INFO  NServiceBus.Satellites.SatelliteLauncher [(null)] <(null)> - Started 3/3 NServiceBus.SecondLevelRetries.SecondLevelRetriesProcessor, NServiceBus.Core, Version=4.6.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c satellite
+2014-08-14 18:10:43,733 [6] INFO  NServiceBus.Satellites.SatelliteLauncher [(null)] <(null)> - Started 2/3 NServiceBus.Timeout.Hosting.Windows.TimeoutDispatcherProcessor, NServiceBus.Core, Version=4.6.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c satellite

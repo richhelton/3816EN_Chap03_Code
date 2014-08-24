@@ -1,0 +1,11 @@
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\bin\Debug\PaymentEngine.Contracts.dll
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\bin\Debug\PaymentEngine.Contracts.pdb
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\bin\Debug\NServiceBus.Core.dll
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\bin\Debug\NServiceBus.dll
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\bin\Debug\NServiceBus.pdb
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\bin\Debug\NServiceBus.xml
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\bin\Debug\NServiceBus.Core.pdb
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\bin\Debug\NServiceBus.Core.xml
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\obj\Debug\PaymentEngine.Contracts.csprojResolveAssemblyReference.cache
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\obj\Debug\PaymentEngine.Contracts.dll
+F:\3496_Chap03_PlatformNSB\PaymentEngine - Test\PaymentEngine\PaymentEngine.Contracts\obj\Debug\PaymentEngine.Contracts.pdb
